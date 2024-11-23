@@ -16,7 +16,6 @@ And more!
 # Usage
 Feel free to browse through the repository and explore the files. If you find anything interesting or useful, you are welcome to clone the repository and use the code for your own learning or projects. To clone the repository, use the following command:
 
-sh
 Copy code
 git clone https://github.com/yourusername/DataCamp-Course-Files.git
 Contributions
