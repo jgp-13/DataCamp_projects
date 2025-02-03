@@ -1,8 +1,8 @@
 # DataCamp Course Files Repository
-Welcome to my GitHub repository! Here, I will be uploading all the files I create as part of my coursework at DataCamp.
+Welcome to my GitHub repository! Here, I will be uploading all the files I create as part of my courseworks at DataCamp.
 
 # Overview
-This repository is intended to serve as a central hub for all the projects, scripts, and data files that I develop during my DataCamp learning journey. It will include a variety of topics and projects covering different aspects of data science, such as:
+This repository is intended to serve as a central hub for all the projects, scripts, and data files that I develop during my DataCamp learning journey. It will include a variety of topics and projects covering different aspects of data analysis/science, such as:
 
 * Data Manipulation
 * Data Visualization
