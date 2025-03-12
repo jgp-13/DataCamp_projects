@@ -17,6 +17,6 @@ And more!
 Feel free to browse through the repository and explore the files. If you find anything interesting or useful, you are welcome to clone the repository and use the code for your own learning or projects. To clone the repository, use the following command:
 
 Copy code
-git clone https://github.com/yourusername/DataCamp-Course-Files.git
+git clone https://github.com/jgp-13/DataCamp-Course-Files.git
 Contributions
 While this repository is primarily for my personal use and learning, I welcome any suggestions or improvements. If you have any ideas or feedback, please feel free to open an issue or submit a pull request.
